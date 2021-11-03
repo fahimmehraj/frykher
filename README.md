@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm a current sohpomore in high school and always open to learning new things. You can reach me at fahimhussain21@mgmail.com.
+I'm a current sohpomore in high school and always open to learning new things.
+You can always reach me at fahimhussain21@gmail.com.
 
 
 https://midnighthacks.tech
