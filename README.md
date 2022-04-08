@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a current sohpomore in high school and always open to learning new things.
+I'm a current sophomore in high school and always open to learning new things.
 You can always reach me at fahimhussain21@gmail.com.
 
 
