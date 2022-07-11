@@ -3,7 +3,7 @@
 I'm a current junior in high school and always open to learning new things.
 You can always reach me at fahimhussain21@gmail.com.
 
-![image](https://user-images.githubusercontent.com/62032183/140004905-090c4663-96d5-4b7b-ae55-4a0b4839db7d.png)
+
 
 
 <!--
