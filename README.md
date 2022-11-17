@@ -3,7 +3,7 @@
 I'm a current junior in high school and always open to learning new things.
 You can always reach me at fahimhussain21@gmail.com.
 
-[![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=frykher)](https://github.com/frykher/github-readme-stats)
+[![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=frykher&theme=rose_pine)](https://github.com/frykher/github-readme-stats)
 
 
 <!--
